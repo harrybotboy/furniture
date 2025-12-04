@@ -1,8 +1,8 @@
-# HỒ SƠ KỸ THUẬT CHI TIẾT: OFFICE 13 (MÃ CĂN E2-4)
+# HỒ SƠ KỸ THUẬT CHI TIẾT: CĂN H.4.13
 
 ## 1. THÔNG TIN CHUNG
 - **Dự án:** Khu nhà ở xã Phước Kiển (Nova Riverside).
-- **Mã căn:** Office 13 (Ký hiệu bản vẽ: E2-4).
+- **Mã căn:** CĂN H.4.13 (Ký hiệu bản vẽ: E2-4).
 - **Vị trí:** Lô E2.
 - **Loại hình:** Văn phòng / Căn hộ.
 
